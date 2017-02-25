@@ -1,2 +1,1 @@
-# MyPackages
-MyPackages
+# webpack-playlist
